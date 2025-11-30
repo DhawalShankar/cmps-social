@@ -93,8 +93,8 @@ This is a client-side React application. To run locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/campus-got-social.git
-   cd campus-got-social
+   git clone https://github.com/yourusername/cmps-social.git
+   cd cmps-social
    ```
 
 2. **Install dependencies**
@@ -105,11 +105,6 @@ This is a client-side React application. To run locally:
 3. **Run the application**
    ```bash
    npm start
-   ```
-
-4. **Open in browser**
-   ```
-   http://localhost:3000
    ```
 
 ### Quick Deploy
@@ -339,7 +334,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Authors
 
-- **Dhawal Shukla** - *Initial work* - [YourGitHub](https://github.com/dhawalshankar)
+- **Dhawal Shukla** - *Initial work* - [MyGitHub](https://github.com/dhawalshankar)
 
 ## 🙏 Acknowledgments
 
@@ -353,7 +348,7 @@ Need help? Reach out:
 
 - **Email**: support@campusgotsocial.com
 - **Twitter**: [@CampusGotSocial](https://twitter.com/campusgotsocial)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/campus-got-social/issues) -->
+- **Issues**: [GitHub Issues](https://github.com/yourusername/cmps-social/issues) -->
 
 <!-- ## 🌐 Demo
 
